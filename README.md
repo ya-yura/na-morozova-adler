@@ -39,6 +39,8 @@ Telegram не добавлен: подтверждённой ссылки вла
 
 ## Публикация
 
-Проект предназначен для публикации через Sites/GitHub Pages после проверки актуальности цены, правил и ссылки WhatsApp владельцем.
+Production demo: https://na-morozova-adler.sharikov715025.chatgpt.site
 
-Живое демо: будет добавлено после публикации.
+Репозиторий: https://github.com/ya-yura/na-morozova-adler
+
+Проект также содержит workflow GitHub Pages. После запуска workflow статическая версия доступна по адресу `https://ya-yura.github.io/na-morozova-adler/`.
